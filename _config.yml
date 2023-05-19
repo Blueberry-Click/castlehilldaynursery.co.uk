@@ -1,0 +1,15 @@
+url: "https://castlehilldaynursery.uk"
+
+locale: en_GB
+timezone: Europe/London
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      description: "Castle Hill Day Nursery is the only nursery in Todmorden to open at 7am and is the most affordable childcare in town. We have an open door policy and are very friendly and welcoming. We have current fulltime vacancies in our babyroom, tweenies and pre school."
+      image: /images/logo.png
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
